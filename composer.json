@@ -1,0 +1,22 @@
+{
+    "name": "Tester",
+    "description": "Core",
+    "license": "MIT",
+    "homepage": "https://www.caroycuervo.gov.co/",
+    "keywords": [
+        "KEY",
+        "ETC"
+    ],
+    "authors": [
+        {
+            "name": "Amilcar Gomez",
+            "email": "amilkargomez@hotmail.es",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.0"
+	},
+    "require-dev": {}
+}
