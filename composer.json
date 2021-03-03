@@ -1,16 +1,16 @@
 {
-    "name": "Tester",
-    "description": "Core",
+    "name": "Valeria Arenas Salgado",
+    "description": "Pagina con PHP",
     "license": "MIT",
-    "homepage": "https://www.caroycuervo.gov.co/",
+    "homepage": "http://localhost.com",
     "keywords": [
         "KEY",
         "ETC"
     ],
     "authors": [
         {
-            "name": "Amilcar Gomez",
-            "email": "amilkargomez@hotmail.es",
+            "name": "Valeria Arenas Salgado",
+            "email": "valeriaaarenass@gmail.com",
             "role": "Developer"
         }
     ],
